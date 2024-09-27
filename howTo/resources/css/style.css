@@ -1,0 +1,33 @@
+*{background-color:darkblue;} 
+
+h1 {
+	font-size: 2rem;
+	color: #blue;
+	font-wight: 600;
+	padding: 15px 0;
+}
+
+h2 {
+	font-size: 1.5rem;
+	color: #2d4c5e;
+	padding: 15px;
+}
+
+h3 {
+	font-size: 1.3rem;
+	color: #2d4c5e;
+	padding: 15px;
+}
+
+ nav {
+
+	padding: 20px 0 20px 10px;
+	 
+ }
+
+a {
+	background-color: #506978;
+	color: #0a324a;
+	text-decoration: none;
+	padding: 20px;
+}
