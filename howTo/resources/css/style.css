@@ -22,6 +22,7 @@ h3 {
  nav {
 
 	padding: 20px 0 20px 10px;
+	border: 5px solid #845007;
 	 
  }
 
@@ -30,4 +31,16 @@ a {
 	color: #0a324a;
 	text-decoration: none;
 	padding: 20px;
+	border: 5px solid #845007;
+	border-radius: 5px;
+	transition-duration: 1s;
+}
+
+a:hover {
+	background-color: #845007;
+	border: 5px outset #845007;
+ }
+
+a:hover {
+	border: 5px solid #845007;
 }
